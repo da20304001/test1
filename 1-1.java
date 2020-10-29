@@ -17,9 +17,10 @@ class Datebase{
 			db._sql=db._sql+args[i]+"\n";
 		}
 		
-		db.addSql("where kname '‹ã“VĞ'");
+		db.addSql("where kname 'â€¹Ã£â€œVÅ½Ã'");
 		db.addSql("group by adress");
 		
 		db.display();
 	}
 }
+ã€
